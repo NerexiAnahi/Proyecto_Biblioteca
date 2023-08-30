@@ -2,7 +2,7 @@ package miprimeraaplicacioncs;
 
 import java.sql.*;
 import java.util.Scanner;
-
+//hola ;)
 public class MiPrimeraAplicacionCS {
 
     public static void main(String[] args) throws Exception {
