@@ -8,7 +8,7 @@ public class accesobd {
     private final String bd;
     
     private Connection conexion;
-
+//
     public accesobd(String host, String user, String passwd, String bd) {
         this.host = host;
         this.user = user;
